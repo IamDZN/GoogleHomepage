@@ -58,6 +58,7 @@ li.rfooter {
   padding-right: 15px;
 }
 li.footer {
+  float: left;
   padding-left: 15px;
 }
 
